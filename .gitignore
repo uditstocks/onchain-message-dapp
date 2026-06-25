@@ -1,0 +1,14 @@
+# secrets
+.env
+frontend/.env
+
+# dependencies
+node_modules/
+frontend/node_modules/
+
+# hardhat build output
+artifacts/
+cache/
+
+# vite build output
+frontend/dist/
